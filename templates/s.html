@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Past Scores</title>
+</head>
+<body>
+    <h2>Your Past Scores</h2>
+    <ul>
+        {% for score in scores %}
+            <li>Score: {{ score[1] }} / {{ score[2] }}</li>
+        {% endfor %}
+    </ul>
+    <br>
+    <a href="{{ url_for('index') }}">Return to Home</a>
+</body>
+</html>

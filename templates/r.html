@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Quiz Result</title>
+</head>
+<body>
+    <h2>Your Score: {{ score }} out of {{ total_questions }}</h2>
+    <a href="{{ url_for('index') }}">Go to Home</a>
+    <br><br>
+    <a href="{{ url_for('scores') }}">View Past Scores</a>
+</body>
+</html>

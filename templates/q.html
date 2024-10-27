@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Question {{ question_num }}</title>
+</head>
+<body>
+    <h2>Question {{ question_num }} of {{ total_questions }}</h2>
+    <p>{{ question["question"] }}</p>
+    <form method="POST">
+        {% for option in question["options"] %}
+            <input type="radio" name="option" value="{{ option }}" required> {{ option }}<br>
+        {% endfor %}
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

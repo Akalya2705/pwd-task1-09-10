@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["Tokyo", "Kyoto", "Osaka", "Nagoya"],
+        "answer": "Tokyo"
+    },
+    {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": ["Jane Austen", "Mark Twain", "Charles Dickens", "William Shakespeare"],
+        "answer": "Jane Austen"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Saturn", "Earth"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["0", "1", "2", "3"],
+        "answer": "2"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "options": ["1940", "1945", "1950", "1960"],
+        "answer": "1945"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["HO", "H2O", "O2", "OH"],
+        "answer": "H2O"
+    }
+]
