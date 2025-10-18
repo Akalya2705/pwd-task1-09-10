@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple MERN Todo List
 
 A minimal todo list app using MongoDB, Express, React (Vite), and Node.js.
@@ -54,3 +55,6 @@ Frontend runs on http://localhost:3000
 ## That's it! 🎉
 
 Open http://localhost:3000 in your browser.
+=======
+# pwd-task1-09-10
+>>>>>>> 96fe3b0b4ed8533e0ae000d488cd4f05afc7db5a
